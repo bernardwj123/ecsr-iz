@@ -1,0 +1,3 @@
+org.springframework.test.context.ContextCustomizerFactory = com.ncs.ecsr.config.\
+    SqlTestContainersSpringContextCustomizerFactory,com.ncs.ecsr.config.\
+    RedisTestContainersSpringContextCustomizerFactory
